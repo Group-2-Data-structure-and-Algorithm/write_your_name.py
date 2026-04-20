@@ -1,1 +1,2 @@
 print("Amos")
+print("Mega")
